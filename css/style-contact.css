@@ -80,13 +80,15 @@ ul li a:hover {
 }
 
 input[type=text] {
-    background-color: #f0f5f9;
+    background-color: transparent;
     width: 50%;
+    color: #FFFFFF;
 }
 
 input[type=email] {
-    background-color: #f0f5f9;
+    background-color: transparent;
     width: 50%;
+    color: #FFFFFF;
 }
 
 input[type=submit]{
